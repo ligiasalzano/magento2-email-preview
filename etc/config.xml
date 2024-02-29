@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <sales_email>
+            <sales_email_testing>
+                <order_id>17026</order_id>
+            </sales_email_testing>
+        </sales_email>
+        <customer>
+            <customer_email_testing>
+                <customer_id>39991</customer_id>
+            </customer_email_testing>
+        </customer>
+    </default>
+</config>
